@@ -41,7 +41,7 @@
     "gulp-svgo": "^2.1.1",
     "gulp-uglify": "^3.0.2",
     "jquery-touchswipe": "^1.6.19",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "jquery": "^3.4.1",
